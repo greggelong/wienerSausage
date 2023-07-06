@@ -14,7 +14,7 @@ function setup(){
 }
 
 function draw(){
-   background(255,2)
+   background(255,1)
    for (let j =1; j<5; j++){
     for(let i =1; i<5;i++){
         saugs[j][i].move()
